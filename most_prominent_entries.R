@@ -1,0 +1,10 @@
+prominent_all <- spectatorReuseCleaned %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+
+prominent_v1 <- vol1 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+prominent_v2 <- vol2 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+prominent_v3 <- vol3 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+prominent_v4 <- vol4 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+prominent_v5 <- vol5 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+prominent_v6 <- vol6 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+prominent_v7 <- vol7 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 
+prominent_v8 <- vol8 %>% group_by(estc_id, title) %>% dplyr::summarise(sum = sum(length), n = n()) 

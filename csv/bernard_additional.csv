@@ -1,0 +1,15 @@
+﻿id;actor_id;actor_name_primary;actor_roles_all;title;estc_language_vec; publication_year;publication_decade;gatherings;volcount;publication_place_752;country_752;finalWorkField;WF_startDate;WF_endDate;bernard;is_organization
+B3;330654;J.Tonson;publisher;The Spectator;English;1713;1710;12mo;1;London;England;;;;3;FALSE
+B3;34509535;S. Buckley;publisher;The Spectator;English;1713;1710;12mo;1;London;England;;;;3;FALSE
+B5;"http://bbti.bodleian.ox.ac.uk/details/?traderid=48725&amp;printer_friendly=true";David Mortier;publisher;Le Spectateur, ou Le Socrate moderne, où l’on voit un portrait naïf des mœurs de ce siecle. Traduit de l’anglois;French;1714;1710;12mo;;Amsterdam;Netherlands;bern-le-spec;1714;1755;5;TRUE
+B12;;;;Le Spectateur, ou Le Socrate moderne;French;1721;1720;12mo;;Amsterdam;Netherlands;bern-le-spec;1714;1755;12;FALSE
+B34;121291376;J. and R. Tonson;publisher;The Spectator;English;1746;1740;18mo;8;London;England;;;;34;TRUE
+B37;;;;Le Spectateur, ou Le Socrate moderne;French;1746;1740;12mo;;Amsterdam;Netherlands;bern-le-spec;1714;1755;37;
+B38;j_r_tonson_s_draper_1;J. and R. Tonson and S. Draper;publisher;The Spectator;English;1747;1740;12mo;8;London;England;;;;38;TRUE
+B43;merkus_arkstÃ©e_amsterdam_1;chez Arkstée & Merkus;publisher;Le Spectateur, ou Le Socrate moderne, où l’on voit un portrait naïf des mœurs de ce siecle. Traduit de l’anglois;French;1750;1750;12mo;8;Amsterdam;Netherlands;bern-le-spec;1714;1755;43;TRUE
+B51;;;;Le Spectateur, ou Le Socrate moderne;French;1754;1750;12mo;;Amsterdam;Netherlands;bern-le-spec;1714;1755;51;
+B52;merigo_hochereau_robustel_reloup_brocas;chez Merigot, Hochereau, Robustel, Leloup, Brocas;;"Le Spectateur, ou Le Socrate Moderne; Traduit de L’Anglois, Nouvelle edition, revue, corrigée & augmentée";French;1755;1750;4to;;Paris;France;bern-le-spec;1714;1755;52;
+B62;wood_john_edinburgh_1;John Wood;publisher;The Spectator, Carefully Corrected;English;1763;1760;12mo;8;Edinburgh;Scotland;;;;62;FALSE
+B82;;;;L’Esprit d’Addisson, ou les Beautés du Spectateur, du Babillard et du Gardien, consistant principalement dans une collection des feuilles de Mr. Addisson, avec un précis de sa vie. Ouvrage nouvellement traduit de l’anglais par Mr. J. P. A;French;1777;1770;8vo;3;Paris;France;;;;82;
+B90;messrs_payne_rivington_1;Messrs. Payne Rivington;publisher;The Spectator;English;1780;1780;12mo;8;London;England;;;;90;TRUE
+B101;messrs_payne_rivington_1;Messrs. Payne Rivington;publisher;The Spectator;English;1790;1790;12mo;8;London;England;;;;101;TRUE
